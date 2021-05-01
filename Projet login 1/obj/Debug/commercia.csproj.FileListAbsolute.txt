@@ -1,0 +1,152 @@
+C:\Users\bine\Desktop\project1\Projet login 1\obj\Debug\commercia.csprojAssemblyReference.cache
+C:\Users\bine\Desktop\project1\Projet login 1\obj\Debug\Projet_login_1.Acceuil.resources
+C:\Users\bine\Desktop\project1\Projet login 1\obj\Debug\Projet_login_1.ajoute.resources
+C:\Users\bine\Desktop\project1\Projet login 1\obj\Debug\Projet_login_1.cherchier.resources
+C:\Users\bine\Desktop\project1\Projet login 1\obj\Debug\Projet_login_1.Form1.resources
+C:\Users\bine\Desktop\project1\Projet login 1\obj\Debug\Projet_login_1.Options.resources
+C:\Users\bine\Desktop\project1\Projet login 1\obj\Debug\Projet_login_1.asces2.resources
+C:\Users\bine\Desktop\project1\Projet login 1\obj\Debug\Projet_login_1.Controle_et_contentien.resources
+C:\Users\bine\Desktop\project1\Projet login 1\obj\Debug\Projet_login_1.Login.resources
+C:\Users\bine\Desktop\project1\Projet login 1\obj\Debug\Projet_login_1.Properties.Resources.resources
+C:\Users\bine\Desktop\project1\Projet login 1\obj\Debug\commercia.csproj.GenerateResource.cache
+C:\Users\bine\Desktop\project1\Projet login 1\obj\Debug\commercia.csproj.CoreCompileInputs.cache
+C:\Users\bine\Desktop\project1\Projet login 1\obj\Debug\Projet login 1.exe
+C:\Users\bine\Desktop\project1\Projet login 1\obj\Debug\Projet login 1.pdb
+C:\Users\bine\Desktop\project1\Projet login 1\obj\Debug\Projet_login_1.Gestion_Client.resources
+C:\Users\bine\Desktop\project1\Projet login 1\bin\Debug\Projet login 1.exe.config
+C:\Users\bine\Desktop\project1\Projet login 1\bin\Debug\Projet login 1.exe
+C:\Users\bine\Desktop\project1\Projet login 1\bin\Debug\Projet login 1.pdb
+C:\Users\bine\Desktop\project1\Projet login 1\bin\Debug\EntityFramework.dll
+C:\Users\bine\Desktop\project1\Projet login 1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bine\Desktop\project1\Projet login 1\bin\Debug\EntityFramework.xml
+C:\Users\bine\Desktop\project1\Projet login 1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bine\Desktop\project1\Projet login 1\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\bine\Desktop\project1\Projet login 1\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\bine\Desktop\project1\Projet login 1\obj\Debug\commercia.csproj.CopyComplete
+C:\Users\bine\Desktop\project1\Projet login 1\obj\Debug\Projet_login_1.Gestion_des_fournisseurs.resources
+D:\commercia\Projet login 1\bin\Debug\Projet login 1.exe.config
+D:\commercia\Projet login 1\bin\Debug\Projet login 1.exe
+D:\commercia\Projet login 1\bin\Debug\Projet login 1.pdb
+D:\commercia\Projet login 1\bin\Debug\EntityFramework.dll
+D:\commercia\Projet login 1\bin\Debug\EntityFramework.SqlServer.dll
+D:\commercia\Projet login 1\bin\Debug\EntityFramework.xml
+D:\commercia\Projet login 1\bin\Debug\EntityFramework.SqlServer.xml
+D:\commercia\Projet login 1\bin\Debug\fr\EntityFramework.resources.dll
+D:\commercia\Projet login 1\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+D:\commercia\Projet login 1\obj\Debug\commercia.csprojAssemblyReference.cache
+D:\commercia\Projet login 1\obj\Debug\Projet_login_1.Acceuil.resources
+D:\commercia\Projet login 1\obj\Debug\Projet_login_1.ajoute.resources
+D:\commercia\Projet login 1\obj\Debug\Projet_login_1.cherchier.resources
+D:\commercia\Projet login 1\obj\Debug\Projet_login_1.Form1.resources
+D:\commercia\Projet login 1\obj\Debug\Projet_login_1.Options.resources
+D:\commercia\Projet login 1\obj\Debug\Projet_login_1.asces2.resources
+D:\commercia\Projet login 1\obj\Debug\Projet_login_1.Gestion_des_fournisseurs.resources
+D:\commercia\Projet login 1\obj\Debug\Projet_login_1.Gestion_Client.resources
+D:\commercia\Projet login 1\obj\Debug\Projet_login_1.Login.resources
+D:\commercia\Projet login 1\obj\Debug\Projet_login_1.Properties.Resources.resources
+D:\commercia\Projet login 1\obj\Debug\commercia.csproj.GenerateResource.cache
+D:\commercia\Projet login 1\obj\Debug\commercia.csproj.CoreCompileInputs.cache
+D:\commercia\Projet login 1\obj\Debug\commercia.csproj.CopyComplete
+D:\commercia\Projet login 1\obj\Debug\Projet login 1.exe
+D:\commercia\Projet login 1\obj\Debug\Projet login 1.pdb
+D:\commercia\Projet login 1\obj\Debug\Projet_login_1.Gestion_des_produits.resources
+D:\commercia\Projet login 1\obj\Debug\Projet_login_1.ajoute_client.resources
+D:\commercia\Projet login 1\obj\Debug\Projet_login_1.Nouvelle_commande.resources
+D:\commercia\Projet login 1\obj\Debug\Projet_login_1.Ajoute_Produits_a_commande.resources
+C:\Users\HP\OneDrive\Bureau\commercia\Projet login 1\bin\Debug\Projet login 1.exe.config
+C:\Users\HP\OneDrive\Bureau\commercia\Projet login 1\bin\Debug\Projet login 1.exe
+C:\Users\HP\OneDrive\Bureau\commercia\Projet login 1\bin\Debug\Projet login 1.pdb
+C:\Users\HP\OneDrive\Bureau\commercia\Projet login 1\bin\Debug\EntityFramework.dll
+C:\Users\HP\OneDrive\Bureau\commercia\Projet login 1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\OneDrive\Bureau\commercia\Projet login 1\bin\Debug\EntityFramework.xml
+C:\Users\HP\OneDrive\Bureau\commercia\Projet login 1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\OneDrive\Bureau\commercia\Projet login 1\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\HP\OneDrive\Bureau\commercia\Projet login 1\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\HP\OneDrive\Bureau\commercia\Projet login 1\obj\Debug\commercia.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Bureau\commercia\Projet login 1\obj\Debug\Projet_login_1.Acceuil.resources
+C:\Users\HP\OneDrive\Bureau\commercia\Projet login 1\obj\Debug\Projet_login_1.ajoute_client.resources
+C:\Users\HP\OneDrive\Bureau\commercia\Projet login 1\obj\Debug\Projet_login_1.Ajoute_Produits_a_commande.resources
+C:\Users\HP\OneDrive\Bureau\commercia\Projet login 1\obj\Debug\Projet_login_1.Nouvelle_commande.resources
+C:\Users\HP\OneDrive\Bureau\commercia\Projet login 1\obj\Debug\Projet_login_1.Gestion_des_fournisseurs.resources
+C:\Users\HP\OneDrive\Bureau\commercia\Projet login 1\obj\Debug\Projet_login_1.Gestion_des_produits.resources
+C:\Users\HP\OneDrive\Bureau\commercia\Projet login 1\obj\Debug\Projet_login_1.Gestion_Client.resources
+C:\Users\HP\OneDrive\Bureau\commercia\Projet login 1\obj\Debug\Projet_login_1.Login.resources
+C:\Users\HP\OneDrive\Bureau\commercia\Projet login 1\obj\Debug\Projet_login_1.Properties.Resources.resources
+C:\Users\HP\OneDrive\Bureau\commercia\Projet login 1\obj\Debug\commercia.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Bureau\commercia\Projet login 1\obj\Debug\commercia.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Bureau\commercia\Projet login 1\obj\Debug\commercia.csproj.CopyComplete
+C:\Users\HP\OneDrive\Bureau\commercia\Projet login 1\obj\Debug\Projet login 1.exe
+C:\Users\HP\OneDrive\Bureau\commercia\Projet login 1\obj\Debug\Projet login 1.pdb
+C:\Users\HP\OneDrive\Bureau\commercia\Projet login 1\obj\Debug\Projet_login_1.ajoute_fournisseur.resources
+C:\Users\HP\OneDrive\Bureau\commercia\Projet login 1\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\HP\OneDrive\Bureau\commercia\Projet login 1\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\HP\OneDrive\Bureau\commercia\Projet login 1\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\HP\OneDrive\Bureau\commercia\Projet login 1\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\HP\OneDrive\Bureau\commercia\Projet login 1\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\HP\OneDrive\Bureau\commercia\Projet login 1\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\HP\OneDrive\Bureau\commercia\Projet login 1\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\HP\OneDrive\Bureau\commercia\Projet login 1\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\HP\OneDrive\Bureau\commercia\Projet login 1\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\HP\OneDrive\Bureau\commercia\Projet login 1\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\HP\OneDrive\Bureau\commercia\Projet login 1\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\HP\OneDrive\Bureau\commercia\Projet login 1\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\HP\OneDrive\Bureau\commercia\Projet login 1\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\HP\OneDrive\Bureau\commercia\Projet login 1\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\HP\OneDrive\Bureau\commercia\Projet login 1\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\HP\OneDrive\Bureau\commercia\Projet login 1\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\HP\OneDrive\Bureau\commercia\Projet login 1\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\HP\OneDrive\Bureau\commercia\Projet login 1\bin\Debug\stdole.dll
+C:\Users\HP\OneDrive\Bureau\commercia\Projet login 1\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\HP\OneDrive\Bureau\commercia\Projet login 1\obj\Debug\Projet_login_1.Form_bon_livraison.resources
+E:\commercia\Projet login 1\bin\Debug\Projet login 1.exe.config
+E:\commercia\Projet login 1\bin\Debug\Projet login 1.exe
+E:\commercia\Projet login 1\bin\Debug\Projet login 1.pdb
+E:\commercia\Projet login 1\bin\Debug\AxShockwaveFlashObjects.dll
+E:\commercia\Projet login 1\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\commercia\Projet login 1\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\commercia\Projet login 1\bin\Debug\CrystalDecisions.Shared.dll
+E:\commercia\Projet login 1\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\commercia\Projet login 1\bin\Debug\EntityFramework.dll
+E:\commercia\Projet login 1\bin\Debug\EntityFramework.SqlServer.dll
+E:\commercia\Projet login 1\bin\Debug\Guna.UI.dll
+E:\commercia\Projet login 1\bin\Debug\ShockwaveFlashObjects.dll
+E:\commercia\Projet login 1\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\commercia\Projet login 1\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\commercia\Projet login 1\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\commercia\Projet login 1\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\commercia\Projet login 1\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\commercia\Projet login 1\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\commercia\Projet login 1\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\commercia\Projet login 1\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\commercia\Projet login 1\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\commercia\Projet login 1\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\commercia\Projet login 1\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\commercia\Projet login 1\bin\Debug\stdole.dll
+E:\commercia\Projet login 1\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\commercia\Projet login 1\bin\Debug\EntityFramework.xml
+E:\commercia\Projet login 1\bin\Debug\EntityFramework.SqlServer.xml
+E:\commercia\Projet login 1\bin\Debug\fr\EntityFramework.resources.dll
+E:\commercia\Projet login 1\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+E:\commercia\Projet login 1\obj\Debug\commercia.csprojAssemblyReference.cache
+E:\commercia\Projet login 1\obj\Debug\Projet_login_1.Acceuil.resources
+E:\commercia\Projet login 1\obj\Debug\Projet_login_1.ajoute_client.resources
+E:\commercia\Projet login 1\obj\Debug\Projet_login_1.Ajoute_Produits_a_commande.resources
+E:\commercia\Projet login 1\obj\Debug\Projet_login_1.ajoute_fournisseur.resources
+E:\commercia\Projet login 1\obj\Debug\Projet_login_1.Form_bon_livraison.resources
+E:\commercia\Projet login 1\obj\Debug\Projet_login_1.gastion_utilisateur.resources
+E:\commercia\Projet login 1\obj\Debug\Projet_login_1.Nouvelle_commande.resources
+E:\commercia\Projet login 1\obj\Debug\Projet_login_1.Gestion_des_fournisseurs.resources
+E:\commercia\Projet login 1\obj\Debug\Projet_login_1.Gestion_des_produits.resources
+E:\commercia\Projet login 1\obj\Debug\Projet_login_1.Gestion_Client.resources
+E:\commercia\Projet login 1\obj\Debug\Projet_login_1.Login.resources
+E:\commercia\Projet login 1\obj\Debug\Projet_login_1.Properties.Resources.resources
+E:\commercia\Projet login 1\obj\Debug\Projet_login_1.propre.resources
+E:\commercia\Projet login 1\obj\Debug\commercia.csproj.GenerateResource.cache
+E:\commercia\Projet login 1\obj\Debug\commercia.csproj.CoreCompileInputs.cache
+E:\commercia\Projet login 1\obj\Debug\commercia.csproj.CopyComplete
+E:\commercia\Projet login 1\obj\Debug\Projet login 1.exe
+E:\commercia\Projet login 1\obj\Debug\Projet login 1.pdb
+E:\commercia\Projet login 1\obj\Debug\Projet_login_1.inscription.resources
+C:\Users\HP\OneDrive\Bureau\commercia\Projet login 1\obj\Debug\Projet_login_1.inscription.resources
+C:\Users\HP\OneDrive\Bureau\commercia\Projet login 1\obj\Debug\Projet_login_1.gastion_utilisateur.resources
+C:\Users\HP\OneDrive\Bureau\commercia\Projet login 1\obj\Debug\Projet_login_1.propre.resources
